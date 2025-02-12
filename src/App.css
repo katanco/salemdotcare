@@ -1,0 +1,32 @@
+#root {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 1.2rem;
+  text-align: center;
+}
+
+.biopic {
+  width: 196px;
+  height: 196px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.card {
+  padding: 1.2em;
+}
+
+h1 {
+  font-size: 2.4em;
+}
+h2 {
+  font-size: 1.32em;
+}
+h3 {
+  font-size: 1.02em;
+  margin-block-end: 0;
+}
+
+p{
+  margin-block-start: 0;
+}
