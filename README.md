@@ -1,3 +1,6 @@
+# salem.care
+github pages react app for salem (my beautiful adorable cat) and his care info
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
