@@ -1,11 +1,11 @@
 {
-  "name": "salem.care",
+  "name": "salemdotcare",
   "private": true,
-  "homepage": "https://katanco.github.io/salemdotcare",
+  "homepage": "https://katanco.github.io/salemdotcare/",
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "predeploy": "vite build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "tsc -b && vite build",
